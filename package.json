@@ -67,6 +67,9 @@
 		"moleculer@^0.14.34": "patch:moleculer@npm%3A0.14.34#./.yarn/patches/moleculer-npm-0.14.34-440e26767d.patch",
 		"mongodb": "6.10.0"
 	},
+	{
+	"name": "rocketchat",
+ 	"version": "1.0.0",
 	"dependencies": {
 		"@types/stream-buffers": "^3.0.7",
 		"node-gyp": "^10.2.0"
